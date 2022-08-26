@@ -1,0 +1,5 @@
+- Base platform: 
+Programiz: https://www.programiz.com/python-programming
+
+- Install Jupyter notebook
+Hong Ly's video: https://youtu.be/AuTkAWEa06E
