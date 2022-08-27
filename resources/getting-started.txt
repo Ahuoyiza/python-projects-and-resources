@@ -1,5 +1,6 @@
 - Base platform: 
-Programiz: https://www.programiz.com/python-programming
+1. Programiz: https://app.programiz.pro/progress/learn/master-python
+2. Udacity: https://www.udacity.com/course/introduction-to-python--ud1110
 
 - Install Jupyter notebook
 Hong Ly's video: https://youtu.be/AuTkAWEa06E
